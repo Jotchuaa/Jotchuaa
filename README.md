@@ -5,7 +5,7 @@
 - 📫 How to reach me: *Message Me*
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play in two separate bands as a Vocalist and Guitarist.
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2015299" style='border:none;'></iframe>
+
 
 <!---
 Jotchuaa/Jotchuaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
